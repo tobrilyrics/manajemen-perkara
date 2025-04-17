@@ -1,0 +1,3 @@
+- center limpah header row
+- auto close limpah actions in belum limpah
+- auto uncheked all chekbox of belum limpah actions
